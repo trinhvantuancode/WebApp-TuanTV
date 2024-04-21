@@ -1,0 +1,2 @@
+import{p as t,b as o}from"./p-52acc288.js";export{s as setNonce}from"./p-52acc288.js";import{g as a}from"./p-e1255160.js";const r=()=>{const s=import.meta.url;const o={};if(s!==""){o.resourcesUrl=new URL(".",s).href}return t(o)};r().then((async s=>{await a();return o([["p-08f7172c",[[1,"slider-component",{data:[1]}]]]],s)}));
+//# sourceMappingURL=stencil-componentlibrary.esm.js.map

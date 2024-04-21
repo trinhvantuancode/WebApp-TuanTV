@@ -1,0 +1,2 @@
+import{r as o,h as c,H as e}from"./p-52acc288.js";const a=":host{color:#ffffff;background-color:black}:host ion-label{color:black;background-color:#ffffff}";const r=a;const f=class{constructor(c){o(this,c);this.data=undefined}render(){return c(e,{key:"64aa0c887581864ec01df308b408ca3341efd4cc"},c("ion-label",{key:"d13abc26b4395810e92e6ee8a0da7289ed5611c5"},"Hellow"))}};f.style=r;export{f as slider_component};
+//# sourceMappingURL=p-08f7172c.entry.js.map
